@@ -1,0 +1,21 @@
+
+form{
+    width: 345px;
+    padding: 30px;
+    background-color: turquoise;
+}
+input{
+    padding: 8px 16px;
+    width: 60px;
+    background-color:#bcfcf5;
+    color: black;
+    font-size: 24px;
+    margin: 10px;
+    border-radius: 6px;
+    border-width: 1px;
+}
+#ekran{
+    width: 277px;
+    text-align: right;
+}
+
